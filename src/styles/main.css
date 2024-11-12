@@ -125,6 +125,11 @@ header .column span{
 
 }
 
+.piano-keys .key.hide span{
+    display: none;
+}
+
+
 .poppins-regular {
     font-family: "Poppins", sans-serif;
     font-weight: 400;
