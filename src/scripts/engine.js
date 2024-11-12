@@ -1,6 +1,6 @@
 const pianoKeys = document.querySelectorAll(".piano-keys .key");
 const volumeSlider = document.querySelector(".volume-slider input");
-const keyCheck = document.querySelector(".keys-check input");
+const keysCheck = document.querySelector(".keys-check input");
 
 
 let mapedKeys = [];
